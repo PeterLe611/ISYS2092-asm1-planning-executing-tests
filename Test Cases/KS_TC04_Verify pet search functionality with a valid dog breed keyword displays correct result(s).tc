@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC04_Verify pet search functionality with a valid dog breed keyword displays correct result(s)</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10019&quot;:&quot;0|i000hz:&quot;},&quot;status&quot;:{&quot;id&quot;:10081,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://rmit-team-j8clfh7q.atlassian.net/&quot;,&quot;statusCategory&quot;:{&quot;id&quot;:2,&quot;key&quot;:&quot;new&quot;,&quot;colorName&quot;:&quot;blue-gray&quot;,&quot;self&quot;:&quot;https://rmit-team-j8clfh7q.atlassian.net/rest/api/2/statuscategory/2&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;self&quot;:&quot;https://rmit-team-j8clfh7q.atlassian.net/rest/api/2/status/10081&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://rmit-team-j8clfh7q.atlassian.net/rest/api/2/project/10069&quot;,&quot;key&quot;:&quot;ASM1PET&quot;,&quot;id&quot;:10069,&quot;name&quot;:&quot;ISYS2092 - Assignment 1: Planning and Executing Testcases&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Verify pet search functionality with a valid dog breed keyword displays correct result(s)&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;s4023679@rmit.edu.vn&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Duc Loc Le&quot;,&quot;accountId&quot;:&quot;712020:b3610d71-be99-4f32-a25e-0fc378c9d622&quot;,&quot;self&quot;:&quot;https://rmit-team-j8clfh7q.atlassian.net/rest/api/2/user?accountId\u003d712020%3Ab3610d71-be99-4f32-a25e-0fc378c9d622&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://rmit-team-j8clfh7q.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://rmit-team-j8clfh7q.atlassian.net/rest/api/2/issue/ASM1PET-4/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://rmit-team-j8clfh7q.atlassian.net/rest/api/2/issue/10257&quot;,&quot;key&quot;:&quot;ASM1PET-4&quot;,&quot;id&quot;:10257}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>867fe641-5adb-4631-b197-0125b3924775</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7366ac87-5705-4ea1-bee4-a038e86bfa48</id>
+      <masked>false</masked>
+      <name>petName</name>
+   </variable>
+</TestCaseEntity>
