@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC18_Verify quantity persistency after navigating to a different page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90582355-f2ec-42b7-a102-a9491251dea4</testCaseGuid>
+</TestCaseEntity>

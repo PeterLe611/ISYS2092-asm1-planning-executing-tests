@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC04_Verify pet search functionality with a valid dog breed keyword displays correct result(s)</name>
+   <tag>jira-integration</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af48075d-c963-42b7-901a-42350aa7e6be</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ca10507-4a96-4c71-93a7-31b9fa18ffec</id>
+      <masked>false</masked>
+      <name>petName</name>
+   </variable>
+</TestCaseEntity>

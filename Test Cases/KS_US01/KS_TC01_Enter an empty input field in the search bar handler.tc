@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC01_Enter an empty input field in the search bar handler</name>
+   <tag>jira-integration</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5508a317-78a6-46ba-bf1f-7eababe983e1</testCaseGuid>
+</TestCaseEntity>

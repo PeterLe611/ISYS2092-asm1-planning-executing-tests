@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC03_Verify a pet with multiple search results displays all results</name>
+   <tag>jira-integration</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9eb25916-6c3a-41d9-a8d6-9ecdccc6b163</testCaseGuid>
+</TestCaseEntity>

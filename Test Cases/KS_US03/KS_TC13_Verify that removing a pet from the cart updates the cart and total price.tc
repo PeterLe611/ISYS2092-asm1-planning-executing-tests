@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC13_Verify that removing a pet from the cart updates the cart and total price</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>886d8354-c38d-495d-b4c6-31a839081d5a</testCaseGuid>
+</TestCaseEntity>

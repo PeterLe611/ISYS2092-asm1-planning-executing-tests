@@ -7,18 +7,18 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='QuickLinks']/a[5]/img</value>
+         <value>//div[@id='SidebarContent']/a[2]/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a:nth-of-type(5) > img</value>
+         <value>#SidebarContent > a:nth-of-type(2) > img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#QuickLinks >> internal:role=link >> nth=4</value>
+         <value>#SidebarContent >> internal:role=link >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,79 +29,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>9b51bbe6-f73d-47fb-b780-1cf9bd40f92d</webElementGuid>
+      <webElementGuid>8f248547-67b6-4cc8-8396-4a1873d4a1f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>../images/sm_birds.gif</value>
-      <webElementGuid>26ce0db7-ad9f-4fd3-9feb-5f7c57ba11c5</webElementGuid>
+      <value>../images/dogs_icon.gif</value>
+      <webElementGuid>df6a492c-4d68-4f45-a76d-27ef0343186d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;QuickLinks&quot;)/a[5]/img[1]</value>
-      <webElementGuid>3dbf6f4b-1156-4aed-a344-c159ca6e76c0</webElementGuid>
+      <value>id(&quot;SidebarContent&quot;)/a[2]/img[1]</value>
+      <webElementGuid>3525706a-3465-4d04-aadb-1bbd17bc018f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='QuickLinks']/a[5]/img</value>
-      <webElementGuid>1947f31d-e1c8-4da2-899c-68568dcb3c4f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//a[5]/img</value>
-      <webElementGuid>f77b824f-cc45-4e83-8436-1ba6fdb583bb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//img[@src = '../images/sm_birds.gif']</value>
-      <webElementGuid>6e717075-e4ad-4b86-998a-a765be853200</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='SidebarContent']/a[4]/img</value>
-      <webElementGuid>7bd40f60-9bc6-408c-be4e-5b3440204238</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/div/a[4]/img</value>
-      <webElementGuid>b27abdb3-136b-4d94-9df8-709144037046</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//img[@src = '../images/reptiles_icon.gif']</value>
-      <webElementGuid>544afff7-5d0b-4457-b3fb-1246c09603f5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
       <value>//div[@id='SidebarContent']/a[2]/img</value>
-      <webElementGuid>897020ea-426a-4e44-8ba2-b8800ad2f966</webElementGuid>
+      <webElementGuid>d6a8401b-65ca-43ae-ae92-4abcef7174e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +61,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/a[2]/img</value>
-      <webElementGuid>8fdc668b-aad8-48b7-850a-897e4a60ee19</webElementGuid>
+      <webElementGuid>9a96adb1-4da3-4eac-8ebf-10e11816241c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +69,102 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '../images/dogs_icon.gif']</value>
-      <webElementGuid>ec31e10c-c3a7-4413-85dd-05fa39e25f50</webElementGuid>
+      <webElementGuid>c2c1960a-667b-4fe5-ba92-fec7a86127ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SidebarContent']/a[5]/img</value>
+      <webElementGuid>bd7f858b-1de6-4612-bec6-eddeeb26c13b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a[5]/img</value>
+      <webElementGuid>f82092f5-6f86-4c58-9c1e-57b4639937d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../images/birds_icon.gif']</value>
+      <webElementGuid>c557df3a-a5f7-4ca9-a551-dfaa4a94fc64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SidebarContent']/a[4]/img</value>
+      <webElementGuid>1b891ac5-5485-4916-94fa-c0d622c1ad31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a[4]/img</value>
+      <webElementGuid>6abe22fb-d2b6-4211-8365-7938d7646423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../images/reptiles_icon.gif']</value>
+      <webElementGuid>eea6c8e6-bd78-41fc-ad91-71dda83ab609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SidebarContent']/a[3]/img</value>
+      <webElementGuid>ee4f50b7-aa85-485f-94cc-d530573dbf1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a[3]/img</value>
+      <webElementGuid>ed4dea11-e8b4-437b-b1b2-d77b593202ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../images/cats_icon.gif']</value>
+      <webElementGuid>36582315-8f1f-4ba7-b0c7-5f7208beaa49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='QuickLinks']/a[5]/img</value>
+      <webElementGuid>abb2c9e6-3e28-4582-a8cc-344c68247eb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/img</value>
+      <webElementGuid>b98fc43f-c7e4-4860-acc9-43abe6dcf3ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../images/sm_birds.gif']</value>
+      <webElementGuid>940283ef-d7bb-40b2-b58a-e79c1e8c4556</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

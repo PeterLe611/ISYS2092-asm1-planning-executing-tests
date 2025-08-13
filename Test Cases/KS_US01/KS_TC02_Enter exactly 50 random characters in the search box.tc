@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC02_Enter exactly 50 random characters in the search box</name>
+   <tag>jira-integration</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65566139-0c2d-4a3d-91da-2768c6d042b2</testCaseGuid>
+</TestCaseEntity>

@@ -7,18 +7,18 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='QuickLinks']/a/img</value>
+         <value>//div[@id='SidebarContent']/a[3]/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#QuickLinks > a > img</value>
+         <value>#SidebarContent > a:nth-of-type(3) > img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#QuickLinks >> internal:role=link >> nth=0</value>
+         <value>#SidebarContent >> internal:role=link >> nth=2</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,31 +29,103 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>24095e57-0d68-47a6-9ffe-044951e2b3c0</webElementGuid>
+      <webElementGuid>46472b26-23fc-4d72-b46c-45f022227b8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>../images/sm_fish.gif</value>
-      <webElementGuid>c9848600-a80d-4e3a-bc48-8d2b36e1475a</webElementGuid>
+      <value>../images/cats_icon.gif</value>
+      <webElementGuid>09b49ce3-cc12-46b9-b326-4a4667db5bb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;QuickLinks&quot;)/a[1]/img[1]</value>
-      <webElementGuid>5d13879d-7af3-434d-9a1a-868500518045</webElementGuid>
+      <value>id(&quot;SidebarContent&quot;)/a[3]/img[1]</value>
+      <webElementGuid>215b47d0-cec8-4df9-b6a4-27782c6551a1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//div[@id='SidebarContent']/a[3]/img</value>
+      <webElementGuid>d9047f9f-77d9-4d54-a6da-fd93bbfc2475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a[3]/img</value>
+      <webElementGuid>67de443b-5ce2-489b-b3b4-8c91ef139b27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../images/cats_icon.gif']</value>
+      <webElementGuid>78027750-9380-4ed3-86ea-301c04f62fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LogoContent']/a/img</value>
+      <webElementGuid>f6754e0c-0caa-4c88-a914-14999bc8caed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>d4a3aed1-9a37-4a13-956a-294e014b1d0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../images/logo-topbar.svg']</value>
+      <webElementGuid>4e460921-698c-4c6f-8a02-b2277636850a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='QuickLinks']/a[4]/img</value>
+      <webElementGuid>39a7e593-9749-4d46-a239-9780c52e3b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/img</value>
+      <webElementGuid>4e328df0-c75a-4f15-8ce4-1898aa822fad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../images/sm_cats.gif']</value>
+      <webElementGuid>26637529-a675-4f91-9efa-93f6ff30abe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//div[@id='QuickLinks']/a/img</value>
-      <webElementGuid>90d9b4c6-9716-448b-8dbb-46a47eb3d5dc</webElementGuid>
+      <webElementGuid>c9074cc7-8b11-408c-90d1-0940cef9e542</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/a/img</value>
-      <webElementGuid>5eff7e27-ff6c-4a0d-a827-03983310a5ea</webElementGuid>
+      <webElementGuid>367caf6c-388f-4333-b054-e60cc01b88a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '../images/sm_fish.gif']</value>
-      <webElementGuid>5b48ea8e-7f0d-44c6-837e-2b86ba8da33d</webElementGuid>
+      <webElementGuid>beb42bf3-6547-47c0-bd98-9bbabb67f236</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

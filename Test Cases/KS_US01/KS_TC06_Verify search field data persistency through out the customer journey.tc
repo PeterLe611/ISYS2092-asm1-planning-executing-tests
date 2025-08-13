@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC06_Verify search field data persistency through out the customer journey</name>
+   <tag>jira-integration</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f080f3e5-2f17-4215-b1c5-4958ab9ed32e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC16_Update the quantity to 0 and verify the item is removed from the cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>05df0bbf-958a-486e-97ee-25454e180ffe</testCaseGuid>
+</TestCaseEntity>

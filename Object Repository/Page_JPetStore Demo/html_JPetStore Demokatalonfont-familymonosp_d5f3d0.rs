@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>html</value>
-      <webElementGuid>44c6c5bb-0bff-405d-bbd3-5db2025493bf</webElementGuid>
+      <webElementGuid>e4ba28ae-6837-4f13-930d-2e97e0299130</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/1999/xhtml</value>
-      <webElementGuid>7e974c26-1b5b-4f44-911e-7ebfadf3bfdd</webElementGuid>
+      <webElementGuid>7387c7bb-117d-4ba8-b83a-466e0024ad68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,15 +68,9 @@ JPetStore Demo
 
 
 
-   
-	
- 
-	
-		Sign Out
-		
-		My Account
-	
-  ?
+  
+	Sign In
+    ?
 
 
 
@@ -93,88 +87,57 @@ JPetStore Demo
 
 
 
-My Orders
+Return to Main Menu
 
 
-	
-		Order ID
-		Date
-		Total Price
-	
+
+
+
+Shopping Cart
 
 	
 		
-			82332
-			2025/08/12 12:00:00
-			$193.50
+			Item ID
+			Product ID
+			Description
+			In Stock?
+			Quantity
+			List Price
+			Total Cost
+			 
+		
+
+		
+
+		
+			
+				EST-25
+				K9-RT-02
+				Adult Female 
+				 
+				 Labrador Retriever
+				true
+				
+				$325.29
+				$32,203.71
+				Remove
+			
+		
+		
+			Sub Total: $32,203.71 
+			 
 		
 	
-		
-			82405
-			2025/08/12 12:00:00
-			$193.50
-		
-	
-		
-			82799
-			2025/08/12 12:00:00
-			$193.50
-		
-	
-		
-			82893
-			2025/08/12 12:00:00
-			$193.50
-		
-	
-		
-			83004
-			2025/08/12 12:00:00
-			$193.50
-		
-	
-		
-			83008
-			2025/08/12 12:00:00
-			$193.50
-		
-	
-		
-			83011
-			2025/08/12 12:00:00
-			$193.50
-		
-	
-		
-			83068
-			2025/08/12 12:00:00
-			$193.50
-		
-	
-		
-			83113
-			2025/08/12 12:00:00
-			$193.50
-		
-	
-		
-			83261
-			2025/08/12 12:00:00
-			$35.00
-		
-	
-		
-			83282
-			2025/08/12 12:00:00
-			$18.50
-		
-	
-		
-			83553
-			2025/08/12 12:00:00
-			$193.50
-		
-	
+
+ 
+	Proceed to Checkout
+
+
+
+  
+
+
+ 
 
 
 
@@ -191,14 +154,6 @@ Elevate you load-testing with OctoPerf!
 
 
 
-	
-		
-          
-        
-	
-
-
-
 
 
 
@@ -206,7 +161,7 @@ Elevate you load-testing with OctoPerf!
 
 
 /html[1]</value>
-      <webElementGuid>35bac891-a301-4b07-861c-bc37ecea2dc2</webElementGuid>
+      <webElementGuid>6b66ac89-cc23-4d3c-96c7-cd8e6405b401</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -214,7 +169,7 @@ Elevate you load-testing with OctoPerf!
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]</value>
-      <webElementGuid>6d1d83bc-fa79-43e4-86fb-0402ed30ba28</webElementGuid>
+      <webElementGuid>d5d6ca68-f7b7-43db-bc78-8e8f468a4973</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -222,7 +177,7 @@ Elevate you load-testing with OctoPerf!
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='']/parent::*</value>
-      <webElementGuid>787f88e9-efcc-4ad8-be5a-fdc6c89c49fe</webElementGuid>
+      <webElementGuid>b675930d-6ab3-4752-8738-a37d0f32672a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -230,7 +185,487 @@ Elevate you load-testing with OctoPerf!
       <name>xpath:position</name>
       <type>Main</type>
       <value>//html</value>
-      <webElementGuid>4094e857-eb09-49b7-b6ad-bb2215b24f41</webElementGuid>
+      <webElementGuid>90b1c3d8-5519-4918-a6c7-d640e7797896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//html[(text() = '
+
+
+
+JPetStore Demo
+
+
+
+
+
+
+#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon katalon-div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} katalon-div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} katalon-div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}
+
+
+
+
+
+
+
+ 
+
+
+
+
+  
+	Sign In
+    ?
+
+
+
+
+	
+	
+
+
+
+        
+
+
+
+
+
+
+Return to Main Menu
+
+
+
+
+
+Shopping Cart
+
+	
+		
+			Item ID
+			Product ID
+			Description
+			In Stock?
+			Quantity
+			List Price
+			Total Cost
+			 
+		
+
+		
+
+		
+			
+				EST-25
+				K9-RT-02
+				Adult Female 
+				 
+				 Labrador Retriever
+				true
+				
+				$325.29
+				$32,203.71
+				Remove
+			
+		
+		
+			Sub Total: $32,203.71 
+			 
+		
+	
+
+ 
+	Proceed to Checkout
+
+
+
+  
+
+
+ 
+
+
+
+
+
+
+Elevate you load-testing with OctoPerf!
+
+
+
+
+
+  Hosted by https://octoperf.com | Powered by www.mybatis.org
+
+
+
+
+
+
+
+
+
+/html[1]' or . = '
+
+
+
+JPetStore Demo
+
+
+
+
+
+
+#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon katalon-div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} katalon-div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} katalon-div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}
+
+
+
+
+
+
+
+ 
+
+
+
+
+  
+	Sign In
+    ?
+
+
+
+
+	
+	
+
+
+
+        
+
+
+
+
+
+
+Return to Main Menu
+
+
+
+
+
+Shopping Cart
+
+	
+		
+			Item ID
+			Product ID
+			Description
+			In Stock?
+			Quantity
+			List Price
+			Total Cost
+			 
+		
+
+		
+
+		
+			
+				EST-25
+				K9-RT-02
+				Adult Female 
+				 
+				 Labrador Retriever
+				true
+				
+				$325.29
+				$32,203.71
+				Remove
+			
+		
+		
+			Sub Total: $32,203.71 
+			 
+		
+	
+
+ 
+	Proceed to Checkout
+
+
+
+  
+
+
+ 
+
+
+
+
+
+
+Elevate you load-testing with OctoPerf!
+
+
+
+
+
+  Hosted by https://octoperf.com | Powered by www.mybatis.org
+
+
+
+
+
+
+
+
+
+/html[1]')]</value>
+      <webElementGuid>738b81f7-9125-4e95-98af-3c9073e52bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//html[(text() = '
+
+
+
+JPetStore Demo
+
+
+
+
+
+
+#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon katalon-div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} katalon-div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} katalon-div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}
+
+
+
+
+
+
+
+ 
+
+
+
+
+  
+	Sign In
+    ?
+
+
+
+
+	
+	
+
+
+
+        
+
+
+
+
+
+
+Return to Main Menu
+
+
+
+
+
+Shopping Cart
+
+	
+		
+			Item ID
+			Product ID
+			Description
+			In Stock?
+			Quantity
+			List Price
+			Total Cost
+			 
+		
+
+		
+
+		
+			
+				EST-23
+				K9-RT-02
+				Adult Female 
+				 
+				 Labrador Retriever
+				true
+				
+				$145.49
+				$1,454,754.51
+				Remove
+			
+		
+		
+			Sub Total: $1,454,754.51 
+			 
+		
+	
+
+ 
+	Proceed to Checkout
+
+
+
+  
+
+
+ 
+
+
+
+
+
+
+Elevate you load-testing with OctoPerf!
+
+
+
+
+
+  Hosted by https://octoperf.com | Powered by www.mybatis.org
+
+
+
+
+
+
+
+
+
+/html[1]' or . = '
+
+
+
+JPetStore Demo
+
+
+
+
+
+
+#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon katalon-div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} katalon-div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} katalon-div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}
+
+
+
+
+
+
+
+ 
+
+
+
+
+  
+	Sign In
+    ?
+
+
+
+
+	
+	
+
+
+
+        
+
+
+
+
+
+
+Return to Main Menu
+
+
+
+
+
+Shopping Cart
+
+	
+		
+			Item ID
+			Product ID
+			Description
+			In Stock?
+			Quantity
+			List Price
+			Total Cost
+			 
+		
+
+		
+
+		
+			
+				EST-23
+				K9-RT-02
+				Adult Female 
+				 
+				 Labrador Retriever
+				true
+				
+				$145.49
+				$1,454,754.51
+				Remove
+			
+		
+		
+			Sub Total: $1,454,754.51 
+			 
+		
+	
+
+ 
+	Proceed to Checkout
+
+
+
+  
+
+
+ 
+
+
+
+
+
+
+Elevate you load-testing with OctoPerf!
+
+
+
+
+
+  Hosted by https://octoperf.com | Powered by www.mybatis.org
+
+
+
+
+
+
+
+
+
+/html[1]')]</value>
+      <webElementGuid>89e78e83-aa29-4930-821d-a46dfa613a3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

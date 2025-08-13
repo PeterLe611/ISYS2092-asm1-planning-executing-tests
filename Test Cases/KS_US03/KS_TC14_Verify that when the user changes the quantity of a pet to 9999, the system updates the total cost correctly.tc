@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC14_Verify that when the user changes the quantity of a pet to 9999, the system updates the total cost correctly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7cf1ad91-9799-41e5-9b95-b0e9b473a1ec</testCaseGuid>
+</TestCaseEntity>

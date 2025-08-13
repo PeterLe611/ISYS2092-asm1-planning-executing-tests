@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC05_Verify pet search functionality with an invalid dog breed keyword displays no result</name>
+   <tag>jira-integration</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d6764a2-e394-4d38-b7d7-ea9a2b93e43a</testCaseGuid>
+</TestCaseEntity>

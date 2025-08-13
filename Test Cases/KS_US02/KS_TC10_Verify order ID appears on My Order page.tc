@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC10_Verify order ID appears on My Order page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7ebae1a-cff4-49f0-8a91-b18d3d9b82bc</testCaseGuid>
+</TestCaseEntity>

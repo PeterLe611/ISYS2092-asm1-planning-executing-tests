@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC12_Verify adding two different pets to the cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8824d031-48a5-440d-a008-6d30d1961acc</testCaseGuid>
+</TestCaseEntity>

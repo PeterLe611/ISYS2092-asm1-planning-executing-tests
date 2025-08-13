@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC07_Verify search response time under 3 seconds</name>
+   <tag>jira-integration</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91bc27cb-4b9c-47cd-a711-1d48ce3a292f</testCaseGuid>
+</TestCaseEntity>

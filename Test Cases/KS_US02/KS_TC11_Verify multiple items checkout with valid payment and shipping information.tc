@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC11_Verify multiple items checkout with valid payment and shipping information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba704097-78c9-4df4-99cc-63b04a120e7e</testCaseGuid>
+</TestCaseEntity>

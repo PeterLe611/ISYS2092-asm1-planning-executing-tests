@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KS_TC09_Verify a checkout process with valid payment and shipping information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a80cb38-1edd-48a0-8329-6d978e400ef2</testCaseGuid>
+</TestCaseEntity>
